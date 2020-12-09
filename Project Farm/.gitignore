@@ -1,5 +1,5 @@
-.namesresult.html
-.namesresult.xml
-.links.xml
-.links.txt
+*.html
+*.xml
+*.xml
+*.txt
 gumbo-parser-master/
